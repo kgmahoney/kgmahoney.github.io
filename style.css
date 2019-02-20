@@ -1,2 +1,7 @@
 p { color: green }
-body {background:yellow;}
+body {background:yellow;
+      color: indigo;
+   	    	font-size: 14pt;
+       		font-family: 'Merriweather'; 
+          }
+a:hover {color: blue} 
