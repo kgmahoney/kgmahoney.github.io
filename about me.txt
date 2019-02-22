@@ -1,0 +1,11 @@
+
+<h1>about me</h1> 
+
+<IMG SRC="/Users/katiemahoney/Desktop/beach.JPG">
+<body>
+
+My name is Katie Mahoney
+
+I am a freshman here at <b> Umaine </b>
+ 
+<i>Go Blackbears </i> 
